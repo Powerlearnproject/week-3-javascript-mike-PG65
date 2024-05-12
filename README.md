@@ -1,4 +1,4 @@
-# Interactive Charts and Graphs with JavaScript
+# Intorduction to Javascript and Interactive Charts and Graphs
 
 ## Description:
 In this week, you will explore the fundamentals of JavaScript, focusing on variables, data types, functions, and manipulating the Document Object Model (DOM). Additionally, you will implement interactive charts and graphs using Chart.js. This assignment will provide hands-on experience with JavaScript programming and data visualization techniques.
